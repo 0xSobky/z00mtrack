@@ -1,0 +1,8 @@
+{
+  "name": "z00mtrack",
+  "description": "A proof-of-concept project for user tracking via the browser zoom levels.",
+  "repository": "https://github.com/0xSobky/z00mtrack",
+  "logo": "",
+  "keywords": ["z00mtrack", "z00mdetect", "user-tracking"],
+  "image": ""
+}
